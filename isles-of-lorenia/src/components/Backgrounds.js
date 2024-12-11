@@ -1,7 +1,8 @@
 // src/components/Backgrounds.js
 import React from "react";
+import backgrounds from "../../public/data/backgrounds.json"; // Import the JSON file
 
-const Backgrounds = ({ backgrounds }) => {
+const Backgrounds = () => {
   return (
     <div className="row row-cols-1 row-cols-md-2 g-4">
       {backgrounds.map((background, index) => (

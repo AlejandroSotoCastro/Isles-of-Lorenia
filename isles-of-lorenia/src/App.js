@@ -6,6 +6,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import News from "./components/News";
+import Database from "./components/Database";
 import Discord from "./components/Discord";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/news" element={<News />} />
           <Route path="/discord" element={<Discord />} />
+          <Route path="/database" element={<Database />} />
         </Routes>
       </Router>
     </div>
