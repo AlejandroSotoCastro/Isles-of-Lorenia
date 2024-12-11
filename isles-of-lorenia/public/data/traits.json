@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Bad luck",
+        "tags": [
+            "curse"
+        ],
+        "description": "Rolling a 1 is always a critical failure.\n\nVariant: Super Bad Luck - Rolling a 1 or a 2 is always a critical failure."
+    },
+    {
+        "name": "Beast blood",
+        "tags": [],
+        "description": "When you can see the moon, you can transform into a beast. During fullmoon you can't resist changing and gain Primal Rage"
+    },
+    {
+        "name": "Blackrot",
+        "tags": [
+            "infection"
+        ],
+        "description": "You've grown an interest in growing mushrooms. Everyone else is affected by their mind controlling properties but not you, you're the only one who's immune."
+    },
+    {
+        "name": "Bloody hell",
+        "tags": [
+            "curse"
+        ],
+        "description": "You perpetually bleed out of eyes, ears, and/or nose\n\nVariant: You perpetually bleed out of your butt"
+    },
+    {
+        "name": "Elemental Shift",
+        "tags": [],
+        "description": "When you learn a new spell from leveling up you may change its damage type. You may however, not gain extra benefits from using this trait. For example, if you change your Magic Missiles into a fire spell, you do not gain extra damage from any effect that increases fire damage. You may not revert these changes. They must be decided the moment you learn a new spell from leveling up."
+    },
+    {
+        "name": "False tongued",
+        "tags": [
+            "curse"
+        ],
+        "description": "You lie compulsively"
+    },
+    {
+        "name": "Guild Operative",
+        "tags": [],
+        "description": "You are an official Adventure Guild Operative. You have a retinue of lawyers, accountants, diplomats, salespersons, and other staff. You receive a salary by the Guild, and you're subject to their laws wherever you go."
+    },
+    {
+        "name": "Hairy",
+        "tags": [
+            "curse"
+        ],
+        "description": "You grow hair all over\n\nVariant: Hair only grows where you wouldn't want it to grow."
+    },
+    {
+        "name": "Light vampirism",
+        "tags": [],
+        "description": "+1 str, dex, and con +2 exhaustion in sunlight\n\nturn into bat once per long rest cast charm person drink blood to heal"
+    },
+    {
+        "name": "Lightening Rod",
+        "tags": [],
+        "description": "Lightening spells and effects within 30ft of you are redirected towards you. You absorb the spell and take the maximum amount of damage you potentially could from it. Casting a lightening spell allows you to double the amount of dice rolled for the damage."
+    },
+    {
+        "name": "Manamorphosis",
+        "tags": [],
+        "description": "Your continued use of a particular type of magic affects your body and mind\n\nFire\n\nstage 2 Your skin chars, your body temperture rises, and you develop a temper Stage 3 Your skins chars further and becomes brittle, your body temperture rises to an uncomfortable degree to you and those near you. Flammable objects you touch are lit on fire. You gain a persistent uncontrollable temper. -2 dex, -2 str, -2 con, add your proficiency bonus to the damage of your fire spells"
+    },
+    {
+        "name": "Minion",
+        "tags": [],
+        "description": "You play as a humanoid who's actually controlled by something or someone else, be it a cat wizard, a small hamster inside your golem chest, a summoner of demons, or by the hivemind. You make an extra character sheet for the controller for when they're unattached. While you're connected to your minion, your str, dex, and con represent that of the minion, while your int, wis, and cha represent the controller. You're free to decide on the relationship, be it parasitic, symbiotic, or other."
+    },
+    {
+        "name": "Music Mystic",
+        "tags": [],
+        "description": "You are a musician who summons an avatar of their music to do battle for them. When an avatar is downed they don't roll death saving rolls and die instantly, but can be resummoned by the musician."
+    },
+    {
+        "name": "Mutant",
+        "tags": [],
+        "description": "Winged\nFour armed\nTail\nHorn"
+    },
+    {
+        "name": "Primal Rage",
+        "tags": [],
+        "description": "Your ancestry is close to the Beast, you struggle to keep composure. Failing a composure roll leads to your character losing control and compulsively attacking those nearest to you"
+    },
+    {
+        "name": "Restless",
+        "tags": [
+            "curse"
+        ],
+        "description": "You can't get into a comfortable resting position, ever. You gain 1 stack of exhaustion that you can't get rid of"
+    },
+    {
+        "name": "Spellcasting modifier modification",
+        "tags": [
+            "Requirement: You can cast spells"
+        ],
+        "description": "You cast spells differently than what is typical for your class. You may pick one of the following:\n\nErudite Intelligence\nYour spellcasting modifier is Intelligence\n\nExceptional Intuition\nYour spellcasting modifier is Wisdom\n\nForce of Will\nYour spellcasting modifier is Charisma"
+    },
+    {
+        "name": "Swarm",
+        "tags": [],
+        "description": "You're a sentient swarm of animals. When you get hit, you gain a stack of exhaustion until you're healed or you reproduce. You may disperse and fit through small holes. You have telepathy."
+    },
+    {
+        "name": "Truth tongued",
+        "tags": [
+            "curse"
+        ],
+        "description": "You can no longer lie\n\nVariant: Your nose grows when you lie"
+    },
+    {
+        "name": "Undead",
+        "tags": [],
+        "description": "Resistant to slashing and piercing damage. Weak against bludgeoning. You no longer require to eat or drink. You no longer benefit from normal healing effects."
+    },
+    {
+        "name": "Underground Dweller",
+        "tags": [],
+        "description": "You gain Darkvision (60ft). While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    {
+        "name": "Vampirism",
+        "tags": [],
+        "description": "Take damage and get disadvantage on everything in sunlight\nBlood dependent\n\ncast charm person cast polymorph -> bat can't normally heal str, dex, and con become 18 can drink blood to heal"
+    }
+]

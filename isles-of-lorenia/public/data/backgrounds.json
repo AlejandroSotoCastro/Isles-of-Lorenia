@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Adventure Guild Bureaucrat",
+        "description": "Skill proficiencies: History, and (religion or investigation)\nLanguages: Common (literate)\nEquipment:\n\nQuill and ink bottle OR stamp + stamp ink box\nPencil, paper, notebook\nFormal office clothes\nAdventure Pass with 1500 IOU's\n[Bureaucratic Navigator] When it comes to bureaucracy, you always know how to find the right guy to solve the task. You can easily find bureaucratic jobs.\nYou can navigate through offices you've been to before without getting lost. When exploring through an office, you have advantage on survival checks. You have advantage when recalling information regarding bureaucracy."
+    },
+    {
+        "name": "Dwarven Mining Guild Banker",
+        "description": "Skill proficiencies: Deception and (history, or investigation)\nTool proficiencies: Forgery Kit\nLanguages: Dwarfish (literate)\nEquipment:\n\nForgery kit\nFormal office clothes\nCredit Card with 20g\n[Financial Connoisseur] You have advantage when haggling with members of the Dwarven Mining Guild and the Church of Coin. You know the ins and outs of the workings of the Church of Coin and you can tell if someone from the DMG is open to bribes."
+    },
+    {
+        "name": "Hillbrand Pyraete",
+        "description": "A notorious pirate known for their fiery temper and cunning strategies, ruling the seas with an iron fist."
+    },
+    {
+        "name": "Incorporeal Investigator",
+        "description": "Skill proficiencies: Investigation and (arcana, insight, history, or stealth)\nTool proficiencies: Spooky Looking Glass\nLanguages: Boo\nEquipment:\n\nWraith\u2019s Watching Window\nTrench coat\nDetective hat\nPerpetual Phantom Puff\n[Clues]\nYou pay only half the costs when you spend DTP on \"research, investigate, and explore\" to uncover a Clue . Clue's are hints for players to solve a mystery, hooks for adventures, or to advance their development in one way or another\n\n[Spooky Sight Seeing]\nYou gain advantage on investigation skill checks that involve creatures of the night (ghosts, werewolves, vampires, etc)"
+    }
+]

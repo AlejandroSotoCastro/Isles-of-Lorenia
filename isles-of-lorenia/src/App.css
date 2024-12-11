@@ -1,0 +1,27 @@
+/* Apply dark mode to body */
+body {
+  background-color: #181818;
+  color: #e0e0e0;
+}
+
+/* Dark navbar */
+.navbar {
+  background-color: #222;
+  color: #fff;
+}
+
+/* Darken links on navbar */
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f0f0f0;
+}
+
+/* Main content */
+main {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  padding: 20px;
+}
