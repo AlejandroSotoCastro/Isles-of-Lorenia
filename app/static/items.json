@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Adventure Pass",
+        "tags": "pass, id",
+        "description": "This is a card with a MEP of your face, your name, Adventurer Identification Number, ancestry, and class. You can use your card to identify yourself, to enjoy certain perks, or to track your IOU's and other legal properties.",
+        "weight": 2
+    },
+    {
+        "name": "Batshades",
+        "tags": "gear, glasses",
+        "description": "Shades in the shape of bat wings. You lose sunlight sensitivity while you wear these. Only works if you have the Cool tag",
+        "weight": 1
+    },
+    {
+        "name": "Battle Chemist's Bandolier",
+        "tags": "gear",
+        "description": "Equipping the Battle Chemists Bandolier allows you you consume potions as a bonus action",
+        "weight": 2
+    },
+    {
+        "name": "Buckler",
+        "tags": "gear, shield, armor",
+        "description": "Wielding a Buckler increases your Armor Class by 1. You can benefit from only one shield at a time. Unlike a regular shield, a buckler is not strapped; you may stow or equip it along with a weapon as a free action.",
+        "weight": 2
+    },
+    {
+        "name": "Explosive flask",
+        "tags": "consumable, grenade",
+        "description": "As an action, a character can light this flask and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take 3d6 fire damage.",
+        "weight": 1
+    },
+    {
+        "name": "HBBBJ brewing kit",
+        "tags": "Artisan's tools",
+        "description": "These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.",
+        "weight": 8
+    },
+    {
+        "name": "Hot Brown Bitter Bean Juice",
+        "tags": "consumble",
+        "description": "For 3 hours exhaustion is reduced by 2 stacks",
+        "weight": 1
+    },
+    {
+        "name": "Smoke in a bottle",
+        "tags": "consumable, grenade",
+        "description": "As an action, a character can throw this bottle at a point up to 60 feet away. One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.",
+        "weight": 1
+    },
+    {
+        "name": "Straight sword",
+        "tags": "gear, melee weapon, martial, sword)",
+        "description": "1d8 slashing, finesse",
+        "weight": 2
+    },
+    {
+        "name": "Supplies",
+        "tags": "resource",
+        "description": "Supplies provide you with enough items for 1 day of adventuring. They may also be consumed during rests to replenish health with your hit dice, and may be used instead of a healer's kit. They include basic Spell Components, but not Special Spell Components, food, water, arrows and bolts, and medical items.",
+        "weight": 2
+    }
+]

@@ -1,0 +1,22 @@
+    <div class="table-responsive">
+            <table class="table table-striped">
+                <thead class="table-light">
+                    <th colspan="2">Name</td>
+                    <th colspan="2">Tags</td>
+                    <th colspan="5">Description</td>
+                    <th colspan="1">Weight</td>
+                </thead>
+                <tbody>
+                {% for item in items %}
+                    <tr>
+                        <td colspan="2">{{ item["name"] }}</td>
+                        <td colspan="2">{{ item["tags"] }}</td>
+                        <td colspan="5">{{ item["description"] }}</td>
+                        <td colspan="1">{{ item["weight"] }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+        </table>
+    </div>
+
+

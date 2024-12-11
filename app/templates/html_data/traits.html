@@ -1,0 +1,14 @@
+<div class="row row-cols-1 row-cols-md-4 row-cols-lg-6 w-100 g-2">
+    {% for trait in traits %}
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                        <h5 class="card-title">{{ trait["name"] }}</h5>
+                        <p class="card-text collapse" id="collapse{{ loop.index }}">{{ trait["description"] }}</p>
+                        <a class="read-more" data-bs-toggle="collapse" href="#collapse{{ loop.index }}" role="button" aria-expanded="false" aria-controls="collapse{{ loop.index }}">Expand</a>
+                        <p class="card-text">tags: {{ trait["tags"] }}</p>
+                </div>
+             </div>
+         </div>
+    {% endfor %}
+</div>
